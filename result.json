@@ -1,0 +1,96 @@
+{
+    "eventType": "addData",
+    "feature": {
+      "attributes": {
+        "nombre": "Batman",
+        "globalid": "{998ADA32-E516-42FF-9BA9-755E2EC3FD72}"
+      },
+      "geometry": {
+        "x": -74.0922561,
+        "y": 4.7420066,
+        "spatialReference": {
+          "wkid": 4326
+        }
+      },
+      "result": {
+        "globalId": "{998ADA32-E516-42FF-9BA9-755E2EC3FD72}",
+        "objectId": 4,
+        "success": true,
+        "uniqueId": 4
+      },
+      "layerInfo": {
+        "id": 0,
+        "name": "Familia2"
+      },
+      "repeats": {
+        "integrantes": [
+          {
+            "attributes": {
+              "integrante": "Robin",
+              "parentglobalid": "{998ADA32-E516-42FF-9BA9-755E2EC3FD72}",
+              "globalid": "{FCA3A156-2825-4395-9467-91FC5392033B}"
+            },
+            "attachments": {
+              "foto": [
+                {
+                  "globalId": "{17EFCC45-174D-444C-85FF-214EC5283BAA}",
+                  "parentGlobalId": "{FCA3A156-2825-4395-9467-91FC5392033B}",
+                  "name": "foto-20220803-205122.jpg",
+                  "contentType": "image/jpeg",
+                  "keywords": "foto",
+                  "size": 68955,
+                  "id": 3,
+                  "url": "https://services1.arcgis.com/7S16A7PAFcmSmqJA/arcgis/rest/services/service_48c83c08c18940c79a1f2532f08e9a4d/FeatureServer/1/4/attachments/3"
+                }
+              ]
+            },
+            "result": {
+              "globalId": "{FCA3A156-2825-4395-9467-91FC5392033B}",
+              "objectId": 4,
+              "success": true,
+              "uniqueId": 4
+            },
+            "layerInfo": {
+              "id": 1,
+              "name": "integrantes"
+            }
+          },
+          {
+            "attributes": {
+              "integrante": "Gordon",
+              "parentglobalid": "{998ADA32-E516-42FF-9BA9-755E2EC3FD72}",
+              "globalid": "{E43DE034-C268-424F-8DAA-866A1B009A1B}"
+            },
+            "attachments": {
+              "foto": [
+                {
+                  "globalId": "{DA41A894-DFE0-45CB-9346-892E151CBEBD}",
+                  "parentGlobalId": "{E43DE034-C268-424F-8DAA-866A1B009A1B}",
+                  "name": "foto-20220803-205146.jpg",
+                  "contentType": "image/jpeg",
+                  "keywords": "foto",
+                  "size": 65971,
+                  "id": 4,
+                  "url": "https://services1.arcgis.com/7S16A7PAFcmSmqJA/arcgis/rest/services/service_48c83c08c18940c79a1f2532f08e9a4d/FeatureServer/1/5/attachments/4"
+                }
+              ]
+            },
+            "result": {
+              "globalId": "{E43DE034-C268-424F-8DAA-866A1B009A1B}",
+              "objectId": 5,
+              "success": true,
+              "uniqueId": 5
+            },
+            "layerInfo": {
+              "id": 1,
+              "name": "integrantes"
+            }
+          }
+        ]
+      }
+    },
+    "portalInfo": {
+      "url": "https://www.arcgis.com",
+      "token": "gzjhiF_os2--0nLfRopT6g7aY2YV-wPJEyuqwD71iWtyE-k_vIKeAp3VLq650q3lGc6WAppFFOHfGUdTSYiP0GenlwaHUkkiCLHnUGdvna0q1f5_wjAaQQsCjNRuJvvLS7uENSDN1OhPNcv3bngrwcOzAJnR3rpDSZix0CLUcSjJrcGqejrzsoPjziLSe7t33L8u9wHA0Kb4EcnxLhX8BbaPHdTAC1FwwxjKx4ijqNXSme-gDVkpjfuZijhPRvdzV_Povcf-Bd3M6W0uMTcDjQ.."
+    }
+  }
