@@ -1,0 +1,12 @@
+{
+    "mail_server": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "username": "andrescfg@gmail.com",
+      "password": "opqtfqunwzmqqoov",
+      "sender_email": "andrescfg@gmail.com"
+    },
+    "service": "https://mapas.igac.gov.co/server/rest/services/Hosted/service_714da9690614450995c01cc451c7bf97/FeatureServer"
+  }
+
+
